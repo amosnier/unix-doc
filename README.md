@@ -1,2 +1,2 @@
 # unix-doc
-What I have learnt about the Unix family of operating systems
+Various tips ans tricks about the Unix family of operating systems
